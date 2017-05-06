@@ -1,32 +1,53 @@
+/*
+*		One will work on one of the following groups.
+*		All modules should be completed only after that,
+*		a group wil be considered completed.
+--------------------------------------------------------------------------------
+*		In case of internal dependency of groups , kindly
+*		use dummy modules for the level of unit testing.
+*		After that a review will be conducted and only
+*		after that the code will be merged.
+*/
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 -- Login
 -- Registration
 -- Logout
 -- Session Management
 -- Authentication
+--------------------------------------------------------------------------------
 -- Leaderboard
--- User Profile (Template)
 -- Profile Edit
 -- Profile Display
 -- Question Display
 -- Answer Authentication
--- Map (Creation)
 -- Map Transition
+-- Map Display
+--------------------------------------------------------------------------------
 -- Discussion Forum
 -- Discussion Thread creation
 -- Discussion reply posting
--- Admin panel (Template)
+--------------------------------------------------------------------------------
 -- Admin login
 -- Admin authentication
 -- Question Upload
 -- Add member
 -- Remove member
 -- Edit user
+--------------------------------------------------------------------------------
 -- Contact US
 -- Feedback form
+--------------------------------------------------------------------------------
 -- Connect To facebook
 -- Login with facebook
 -- Login with google
 -- Notifications
+--------------------------------------------------------------------------------
 -- Documentation
+--------------------------------------------------------------------------------
 -- Databse Creation
--- Table creation (template)
+-- Map (Creation)
+-- Admin panel (Template)
+-- User Profile (Template)
+-- Table creation (Template)
+--------------------------------------------------------------------------------
