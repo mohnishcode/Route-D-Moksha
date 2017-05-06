@@ -1,12 +1,13 @@
 /*
-*		One will work on one of the following groups.
-*		All modules should be completed only after that,
-*		a group wil be considered completed.
+		One will work on one of the following groups not
+		only on a single module. All modules should be 
+		completed only and only after that a group wil 
+		be considered completed.
 --------------------------------------------------------------------------------
-*		In case of internal dependency of groups , kindly
-*		use dummy modules for the level of unit testing.
-*		After that a review will be conducted and only
-*		after that the code will be merged.
+		In case of internal dependency of groups , kindly
+		use dummy modules for the level of unit testing.
+		After that a review will be conducted and only
+		after that the code will be merged.
 */
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
